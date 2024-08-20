@@ -1,6 +1,6 @@
 {
   "name": "hws2",
-  "homepage": "https://github.com/Sad8487/hw-ignat-2-2",
+  "homepage": "https://sad8487.github.io/hw-auto-ignat/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -32,7 +32,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
